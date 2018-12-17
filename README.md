@@ -63,6 +63,5 @@ Average number of requests per second
 | --- | --- | --- | --- |
 | Simple JSON | 14661.6 | 15719.2 |11141.6|
 | Simple database call | 5086.61 | 4815.61 |4960.2|
-| Complex database call | 3533.4 | 3149 |2781.4
-|
+| Complex database call | 3533.4 | 3149 |2781.4|
 
