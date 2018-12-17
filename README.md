@@ -47,6 +47,8 @@
 
  ## Results
 
+Average number of requests per second
+
 ### hapi.js
 
 | Kind of endpoint | Basic | Multiple connections with pipelining|Multiple Connections without pipelining |
